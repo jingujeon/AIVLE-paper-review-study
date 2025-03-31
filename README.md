@@ -14,6 +14,6 @@ AIVLE 커리큘럼 흐름에 맞춰 선정하고,
 
 | 발표 날짜 | 논문 제목 | 발행 연월 | Venue | 발표자 |
 |-----------|------------|-----------|--------|--------|
-| [250321](./presentations/test_paper.pdf) | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](./papers/test_pdf.pdf) | 2024-08 | COLM | 최종현 |
+| [250321](./presentations/test_paper.pdf) | [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](./papers/test_pdf.pdf) | 2024-08 | COLM | 전진구 |
 
 ---
