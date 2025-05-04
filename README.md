@@ -16,6 +16,6 @@ AI의 다양한 분야를 폭넓게 다루며,
 
 | 발표 날짜 | 논문 제목 | 발행 연월 | 발표처 | 발표자 |
 |-----------|------------|-----------|--------|--------|
-| [250331](./presentations/week1/test.pdf) | [test](./papers/week1/test.pdf) | 2023-10 | ksiis | 전진구 |
+| [250501](./presentations/week1/test.pdf) | [test](./papers/week1/test.pdf) | 2023-10 | ksiis | 전진구 |
 
 ---
