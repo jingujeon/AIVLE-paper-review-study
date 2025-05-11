@@ -17,6 +17,6 @@ AI의 다양한 분야를 폭넓게 다루며,
 | 발표 날짜 | 논문 제목 | 발행 연월 | 발표처 | 발표자 |
 |-----------|------------|-----------|--------|--------|
 | [250501](./presentations/250501/20250501_Ichigo%20Mixed-Modal%20Early-Fusion%20Realtime%20Voice%20Assistant_전진구.pdf) | [Ichigo Mixed-Modal Early-Fusion Realtime Voice Assistant](https://paperswithcode.com/paper/ichigo-mixed-modal-early-fusion-realtime) | 2024-10 | preprint | 전진구 |
-| [250508](./presentations/250508/Novel%20View%20Synthesis.pdf) | [Grounding Image Matching in 3D with MASt3R](https://arxiv.org/abs/2406.09756) | 2024-6 | ECCV | 남경탁 |
+| [250508](./presentations/250508/Novel%20View%20Synthesis.pdf) | [Grounding Image Matching in 3D with MASt3R](https://eccv.ecva.net/virtual/2024/poster/523) | 2024-6 | ECCV | 남경탁 |
 
 ---
