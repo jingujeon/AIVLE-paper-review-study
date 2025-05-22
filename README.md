@@ -21,6 +21,6 @@ AI의 다양한 분야를 폭넓게 다루며,
 | [250515](presentations/250515/20250515_%EB%B0%95%EA%B8%B0%EC%9B%85_Are%20Transformers%20Effective%20for%20Time%20Series%20Forecasting.pdf) | [Are Transformers Effective for Time Series Forecasting?](https://ojs.aaai.org/index.php/AAAI/article/view/26317) | 2023-06 | AAAI | 박기웅 |
 | [250515](presentations/250515/20250515_%EC%95%88%EB%8F%84%ED%98%95_Retrieval-Augmented%20Generation%20for%20Knowledge-Intensive%20NLP%20Tasks.pdf) | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://neurips.cc/virtual/2020/protected/poster_6b493230205f780e1bc26945df7481e5.html) | 2020-12 | NeurIPS | 안도형 |
 | [250522](presentations/250515/20250515_%EC%95%88%EB%8F%84%ED%98%95_Retrieval-Augmented%20Generation%20for%20Knowledge-Intensive%20NLP%20Tasks.pdf) | [Segment Anything](https://ai.meta.com/research/publications/segment-anything/) | 2023-05 | preprint | 이름 |
-| [250522](presentations/250515/20250515_%EC%95%88%EB%8F%84%ED%98%95_Retrieval-Augmented%20Generation%20for%20Knowledge-Intensive%20NLP%20Tasks.pdf) | [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692) | 2024-06 | preprint | 이름 |
+| [250522](presentations/250515/20250515_%EC%95%88%EB%8F%84%ED%98%95_Retrieval-Augmented%20Generation%20for%20Knowledge-Intensive%20NLP%20Tasks.pdf) | [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692) | 2024-06 | preprint | 장자윤 |
 
 ---
