@@ -16,7 +16,7 @@ AI의 다양한 분야를 폭넓게 다루며,
 
 | 발표 날짜 | 논문 제목 | 발행 연월 | 발표처 | 발표자 |
 |-----------|------------|-----------|--------|--------|
-| [250501](./presentations/250501/20250501_Ichigo%20Mixed-Modal%20Early-Fusion%20Realtime%20Voice%20Assistant_전진구.pdf) | [Ichigo Mixed-Modal Early-Fusion Realtime Voice Assistant](https://paperswithcode.com/paper/ichigo-mixed-modal-early-fusion-realtime) | 2024-10 | preprint | 전진구 |
+| [250501](.presentations/250501/20250501_%EC%A0%84%EC%A7%84%EA%B5%AC_Ichigo%20Mixed-Modal%20Early-Fusion%20Realtime%20Voice%20Assistant.pdf) | [Ichigo Mixed-Modal Early-Fusion Realtime Voice Assistant](https://paperswithcode.com/paper/ichigo-mixed-modal-early-fusion-realtime) | 2024-10 | preprint | 전진구 |
 | [250508](./presentations/250508/Novel%20View%20Synthesis.pdf) | [Grounding Image Matching in 3D with MASt3R](https://eccv.ecva.net/virtual/2024/poster/523) | 2024-06 | ECCV | 남경탁 |
 | [250515](./presentations/250515/20250515_박기웅_Are%20Transformers%20Effective%20for%20Time%20Series%20Forecasting.pdf) | [Are Transformers Effective for Time Series Forecasting?](https://ojs.aaai.org/index.php/AAAI/article/view/26317) | 2023-06 | AAAI | 박기웅 |
 | [250515](./presentations/250515/20250515_안도형_Retrieval-Augmented%20Generation%20for%20Knowledge-Intensive%20NLP%20Tasks.pdf) | [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://neurips.cc/virtual/2020/protected/poster_6b493230205f780e1bc26945df7481e5.html) | 2020-12 | NeurIPS | 안도형 |
