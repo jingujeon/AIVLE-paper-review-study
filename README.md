@@ -24,5 +24,6 @@ AI의 다양한 분야를 폭넓게 다루며,
 | [250522](presentations/250522/20250522_%EC%9E%A5%EC%9E%90%EC%9C%A4_Segment%20Anything_Mixture-of-Agents%20Enhances%20Large%20Language%20Model%20Capabilities.pdf) | [Mixture-of-Agents Enhances Large Language Model Capabilities](https://arxiv.org/abs/2406.04692) | 2024-06 | preprint | 장자윤 |
 | [250529](presentations/250529/20250529_%ED%99%8D%EA%B6%8C_TextRefiner%20Internal%20Visual%20Feature%20as%20Efficient%20Refiner%20for%20Vision-Language%20Models%20Prompt%20Tuning.pdf) | [TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/32942) | 2025-04 | AAAI | 홍권 |
 | [250529](presentations/250529/20250529_%EC%9D%B4%EC%9C%A0%EB%AF%BC_Don't%20Do%20RAG%20When%20Cache-Augmented%20Generation%20is%20All%20You%20Need%20for%20Knowledge%20Tasks.pdf) | [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](https://arxiv.org/abs/2412.15605) | 2024-12 | preprint | 이유민 |
+| [250605](presentations/250605/20250605_%EC%A0%84%EC%A7%84%EA%B5%AC_Chameleon%20Mixed-Modal%20Early-Fusion%20Foundation%20Models.pdf) | [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818) | 2024-05 | preprint | 전진구 |
 
 ---
