@@ -26,5 +26,8 @@ AI의 다양한 분야를 폭넓게 다루며,
 | [250529](presentations/250529/20250529_%EC%9D%B4%EC%9C%A0%EB%AF%BC_Don't%20Do%20RAG%20When%20Cache-Augmented%20Generation%20is%20All%20You%20Need%20for%20Knowledge%20Tasks.pdf) | [Don't Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](https://arxiv.org/abs/2412.15605) | 2024-12 | preprint | 이유민 |
 | [250605](presentations/250605/250605_%EC%A0%84%EC%A7%84%EA%B5%AC_Chameleon%20Mixed-Modal%20Early-Fusion%20Foundation%20Models.pdf) | [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818) | 2024-05 | preprint | 전진구 |
 | [250619](presentations/250619/250619_%EB%82%A8%EA%B2%BD%ED%83%81_Attention%20Is%20All%20You%20Need.pdf) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2017-06 | NeurIPS | 남경탁 |
+| [250626](presentations/250626/250626_%EC%9E%A5%EC%9E%90%EC%9C%A4_LiveCC-Learning%20Video%20LLM%20with%20Streaming%20Speech%20Transcription%20at%20Scale.pdf) | [LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale](https://arxiv.org/abs/2504.16030) | 2025-04 | CVPR | 장자윤 |
+| [250626](presentations/250626/250626_%EB%B0%95%EA%B8%B0%EC%9B%85_BRITS-Bidirectional%20Recurrent%20Imputation%20for%20Time%20Series.pdf) | [BRITS: Bidirectional Recurrent Imputation for Time Series](https://arxiv.org/abs/1805.10572) | 2018-05 | NeurIPS | 박기웅 |
+| [250626](presentations/250626/250626_%EA%B9%80%EC%B0%AC%EC%A7%84_SAM%202-Segment%20Anything%20in%20Images%20and%20Videos.pdf) | [SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714) | 2024-08 | preprint | 김찬진 |
 
 ---
