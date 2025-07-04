@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cbf73603-c565-4127-a47b-efda8c59759a)## 📚 DeepLearner
+## DeepLearner
 
 AIVLE 7기 3/4반을 중심으로,  
 AI와 관련된 논문을 함께 읽고 발표하는 스터디입니다.
