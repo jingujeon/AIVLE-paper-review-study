@@ -1,4 +1,4 @@
-## 📚 DeepLearner
+![image](https://github.com/user-attachments/assets/cbf73603-c565-4127-a47b-efda8c59759a)## 📚 DeepLearner
 
 AIVLE 7기 3/4반을 중심으로,  
 AI와 관련된 논문을 함께 읽고 발표하는 스터디입니다.
@@ -29,5 +29,8 @@ AI의 다양한 분야를 폭넓게 다루며,
 | [250626](presentations/250626/250626_%EC%9E%A5%EC%9E%90%EC%9C%A4_LiveCC-Learning%20Video%20LLM%20with%20Streaming%20Speech%20Transcription%20at%20Scale.pdf) | [LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale](https://arxiv.org/abs/2504.16030) | 2025-04 | CVPR | 장자윤 |
 | [250626](presentations/250626/250626_%EB%B0%95%EA%B8%B0%EC%9B%85_BRITS-Bidirectional%20Recurrent%20Imputation%20for%20Time%20Series.pdf) | [BRITS: Bidirectional Recurrent Imputation for Time Series](https://arxiv.org/abs/1805.10572) | 2018-05 | NeurIPS | 박기웅 |
 | [250626](presentations/250626/250626_%EA%B9%80%EC%B0%AC%EC%A7%84_SAM%202-Segment%20Anything%20in%20Images%20and%20Videos.pdf) | [SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714) | 2024-08 | preprint | 김찬진 |
+| [250703](presentations/250703/250703_%EC%95%88%EB%8F%84%ED%98%95_REPLUG-Retrieval-Augmented%20Black-Box%20Language%20Models.pdf) | [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652) | 2023-1 | NAACL | 안도형 |
+| [250703](presentations/250703/250703_%ED%99%8D%EA%B6%8C_MATCHA-Towards%20Matching%20Anything.pdf) | [MATCHA:Towards Matching Anything](https://arxiv.org/abs/2501.14945) | 2025-06 | CVPR | 홍권 |
+| [250703](presentations/250703/250703_%EC%9D%B4%EC%9C%A0%EB%AF%BC_Reinforcement%20Pre-Training.pdf) | [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) | 2025-01 | preprint | 이유민 |
 
 ---
