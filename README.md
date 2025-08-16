@@ -32,10 +32,10 @@ AI의 다양한 분야를 폭넓게 다루며,
 | [250703](presentations/250703/250703_%EC%95%88%EB%8F%84%ED%98%95_REPLUG-Retrieval-Augmented%20Black-Box%20Language%20Models.pdf) | [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652) | 2023-1 | NAACL | 안도형 |
 | [250703](presentations/250703/250703_%ED%99%8D%EA%B6%8C_MATCHA-Towards%20Matching%20Anything.pdf) | [MATCHA:Towards Matching Anything](https://arxiv.org/abs/2501.14945) | 2025-06 | CVPR | 홍권 |
 | [250703](presentations/250703/250703_%EC%9D%B4%EC%9C%A0%EB%AF%BC_Reinforcement%20Pre-Training.pdf) | [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) | 2025-01 | preprint | 이유민 |
-| [250710](presentations/250710/250710_전진구_Corrective Retrieval Augmented Generation.pdf) | [Corrective Retrieval Augmented Generation](https://arxiv.org/abs/2401.15884) | 2024-01 | preprint | 전진구 |
-| [250724] |  | 2025-01 | preprint | 남경탁 |
-| [250731](presentations/250731/250731_김찬진_MAC-SQL A Multi-Agent Collaborative Framework for Text-to-SQL.pdf) | [MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL](https://arxiv.org/abs/2312.11242) | 2023-12 | preprint | 김찬진 |
-| [250731](presentations/250731/250731_안도형_Time-LLM Time Series Forecasting by Reprogramming.pdf) | [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://arxiv.org/abs/2310.01728) | 2023-10 | ICLR | 안도형 |
-| [250807](presentations/250703/250703_%EC%9D%B4%EC%9C%A0%EB%AF%BC_Reinforcement%20Pre-Training.pdf) | [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) | 2025-01 | preprint | 이유민 |
-| [250807](presentations/250703/250703_%EC%9D%B4%EC%9C%A0%EB%AF%BC_Reinforcement%20Pre-Training.pdf) | [Reinforcement Pre-Training](https://arxiv.org/abs/2506.08007) | 2025-01 | preprint | 홍권 |
+| [250710](presentations/250710/250710_%EC%A0%84%EC%A7%84%EA%B5%AC_Corrective%20Retrieval%20Augmented%20Generation.pdf) | [Corrective Retrieval Augmented Generation](https://arxiv.org/abs/2401.15884) | 2024-01 | preprint | 전진구 |
+| [250724] |  | 2025-01 | preprint | 남경탁 |
+| [250731](presentations/250731/250731_%EA%B9%80%EC%B0%AC%EC%A7%84_MAC-SQL%20A%20Multi-Agent%20Collaborative%20Framework%20for%20Text-to-SQL.pdf) | [MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL](https://arxiv.org/abs/2312.11242) | 2023-12 | COLING | 김찬진 |
+| [250731](presentations/250731/250731_%EC%95%88%EB%8F%84%ED%98%95_Time-LLM%20Time%20Series%20Forecasting%20by%20Reprogramming.pdf) | [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://arxiv.org/abs/2310.01728) | 2023-10 | ICLR | 안도형 |
+| [250807](presentations/250807/250807_%EC%9D%B4%EC%9C%A0%EB%AF%BC_CodeT5%20Identifier-aware%20Unified%20Pre-trained.pdf) | [CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation](https://arxiv.org/abs/2109.00859) | 2021-09 | EMNLP | 이유민 |
+| [250807](presentations/250807/250807_%ED%99%8D%EA%B6%8C_Visual%20Fourier%20Prompt%20Tuning.pdf) | [Visual Fourier Prompt Tuning](https://arxiv.org/abs/2411.01327) | 2024-11 | NeurIPS | 홍권 |
 ---
